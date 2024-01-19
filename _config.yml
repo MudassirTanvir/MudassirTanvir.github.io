@@ -22,8 +22,8 @@ avatar_image: /img/Mudassir's Photo.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "www.linkedin.com/in/mudassirtanvir" # Add your linkedln handle
-github: "www.linkedin.com/in/mudassirtanvir"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/mudassirtanvir/" # Add your linkedln handle
+github: "https://github.com/MudassirTanvir?tab=repositories"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
