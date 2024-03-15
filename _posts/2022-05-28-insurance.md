@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting Customer Loyalty Using ML
+title: Predicting Insurance Charges Using ML
 image: "/posts/insurance_predictor_theme_image.png"
 tags: [Insurance Premium Charges, Machine Learning, Regression, Python]
 ---
