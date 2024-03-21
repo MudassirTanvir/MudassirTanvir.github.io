@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TCovid Vaccination Tracking with Power BI!
+title: Covid Vaccination Tracking with Power BI!
 image: "/posts/Napa_Valley_quake.jpg"
 
 tags: [Power BI, Data Visualization]
@@ -9,7 +9,7 @@ tags: [Power BI, Data Visualization]
 I've been tasked by an Earthquake monitoring agency to help analyze and visualize global earthquake patterns. I've been handed a 30-day sample of data. 
 I've outline my process for this project below.
 
-<iframe title="Covid-19 Vaccine Progress" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4cc7a14b-470e-49b5-8ab8-94881a0a5284&autoAuth=true&ctid=6e5a6b5e-3c8f-4821-81c5-28885a52597c" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Covid-19 Vaccine Progress" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4cc7a14b-470e-49b5-8ab8-94881a0a5284&autoAuth=false&ctid=6e5a6b5e-3c8f-4821-81c5-28885a52597c" frameborder="0" allowFullScreen="true"></iframe>>
 
 --- 
 
