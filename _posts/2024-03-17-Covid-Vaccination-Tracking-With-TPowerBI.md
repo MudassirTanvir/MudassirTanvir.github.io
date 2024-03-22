@@ -9,7 +9,7 @@ tags: [Power BI, Data Visualization]
 I've been tasked by an Earthquake monitoring agency to help analyze and visualize global earthquake patterns. I've been handed a 30-day sample of data. 
 I've outline my process for this project below.
 
-<iframe title="Covid-19 Vaccine Progress" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4cc7a14b-470e-49b5-8ab8-94881a0a5284&autoAuth=false&ctid=6e5a6b5e-3c8f-4821-81c5-28885a52597c" frameborder="0" allowFullScreen="true"></iframe>>
+<iframe title="Covid-19 Vaccine Progress" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=76639835-876b-4633-bb26-40fef5aaa920&autoAuth=true&ctid=16ed5ab4-2b59-4e40-806d-8a30bdc9cf26" frameborder="0" allowFullScreen="true"></iframe>
 
 --- 
 
